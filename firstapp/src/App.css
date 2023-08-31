@@ -1,0 +1,32 @@
+.text {
+  color: red;
+  text-align: center;
+  
+}
+
+.promo-section {
+  font-weight: bold;
+  color: red;
+  line-height: 20px;
+}
+
+.Card {
+  border: solid;
+  border-radius: 4%;
+}
+
+.first {
+  background: red;
+}
+
+.second {
+  background: green;
+}
+
+.task {
+  background: red;
+}
+
+.button {
+  color: red;
+}
