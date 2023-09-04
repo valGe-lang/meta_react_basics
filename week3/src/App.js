@@ -37,7 +37,6 @@ function App() {
     } else {
       bird1.pause();
     }
-    console.log(toggle1);
   };
 
   return (
